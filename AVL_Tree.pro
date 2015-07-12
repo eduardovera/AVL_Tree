@@ -16,7 +16,8 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp \
-    avl_tree.cpp
+    avl_tree.cpp \
+    utils.cpp
 
 HEADERS += \
     avl_tree.h
